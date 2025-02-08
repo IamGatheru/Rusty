@@ -1,1 +1,1 @@
-My First readme
+This folder contains my first programs in C++ following a book by Daniel J. Duffy: Introduction to C++ for Financial Engineers: An Object-oriented Approach.
