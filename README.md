@@ -1,1 +1,1 @@
-This folder contains my first programs in C++ following a book by Daniel J. Duffy: Introduction to C++ for Financial Engineers: An Object-oriented Approach.
+This repository will contain program files in C++ written as I self study using Josh Lospinoso's: C++ Crash Course.
