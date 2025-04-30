@@ -43,7 +43,7 @@ int main() {
    * unsigned char - unsigned default
    * wchar_t - large enough to contain the  largest character of the implementation's locale, unicode.
    * char, signed char, and unsigned char are called narrow characters.
-   * char16_t, char32_t and wchar_t are called wide characters.
+   * char16_t, char32_t and wchar_t are called wide characters.                               
    */
    /
 
